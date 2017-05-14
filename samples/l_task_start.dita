@@ -72,6 +72,18 @@
                     </p>
                 </stepresult>
             </step>
+            <stepsection>
+                <p>
+                    Once you’ve identified the duck, you can spend some time noting its behavior.
+                </p>
+            </stepsection>
+            <step>
+                <note>
+                    Don't disturb the ducks while observing their behavior. They behave differently if they
+                    detect your presence.
+                </note>
+                <cmd>Watch how the ducks interact with one another or what they're eating.</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
