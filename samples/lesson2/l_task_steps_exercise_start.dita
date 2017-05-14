@@ -74,10 +74,8 @@
             </step>
             <step>
                 <cmd>Ensure long-term success.</cmd>
-                <stepresult>
-                    You can tick off the items you listed at the beginning of the project as accomplishments 
-                    now.
-                </stepresult>
+                <stepresult> You can tick off the items you listed at the beginning of the project
+                    as accomplishments now. </stepresult>
             </step>
         </steps>
     </taskbody>

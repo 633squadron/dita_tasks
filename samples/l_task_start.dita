@@ -3,23 +3,16 @@
 <task id="my_first_task">
     <title>Watching wild ducks</title>
     <taskbody>
-        <prereq>
-            Before you go watching wild ducks, make sure you know what a wild duck looks like.
-        </prereq>
+        <prereq> Before you go watching wild ducks, make sure you know what a wild duck looks like. </prereq>
         <context>
-            <p>
-                Watching wild ducks can be calming and recreational.
-            </p>
-            <p>
-                Read this to learn more about what you need to have a satisfying duck-watching experience.
-            </p>
+            <p> Watching wild ducks can be calming and recreational. </p>
+            <p> Read this to learn more about what you need to have a satisfying duck-watching
+                experience. </p>
         </context>
         <steps>
             <step>
                 <cmd>Choose a location to watch ducks.</cmd>
-                <info>
-                    Generally, ducks are found in wild locations, near water.
-                </info>
+                <info> Generally, ducks are found in wild locations, near water. </info>
             </step>
             <step>
                 <cmd>Pick a field guide to identify the ducks.</cmd>
@@ -63,25 +56,20 @@
                 <cmd>When you have definitively identified a duck, make a note in your guide.</cmd>
                 <stepxmp>
                     <p>
-                        <image href="lesson2/checklist.png"></image>
+                        <image href="lesson2/checklist.png"/>
                     </p>
                 </stepxmp>
                 <stepresult>
-                    <p>
-                        You'll now have a record you can keep for the rest of your life.
-                    </p>
+                    <p> You'll now have a record you can keep for the rest of your life. </p>
                 </stepresult>
             </step>
             <stepsection>
-                <p>
-                    Once you’ve identified the duck, you can spend some time noting its behavior.
+                <p> Once you’ve identified the duck, you can spend some time noting its behavior.
                 </p>
             </stepsection>
             <step>
-                <note>
-                    Don't disturb the ducks while observing their behavior. They behave differently if they
-                    detect your presence.
-                </note>
+                <note> Don't disturb the ducks while observing their behavior. They behave
+                    differently if they detect your presence. </note>
                 <cmd>Watch how the ducks interact with one another or what they're eating.</cmd>
             </step>
         </steps>

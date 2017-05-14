@@ -83,5 +83,22 @@
                 </stepresult>
             </step>
         </steps>
+        <result>
+            <p>
+                The fresh air, exercise, and thrill of seeing wild ducks enhances your well-being.
+            </p>
+        </result>
+        <example>
+            <p>
+                Don’t expect this kind of behavior:
+                <xref href="http://dai.ly/x2j6pt1" format="html" scope="external">Duck Amuck</xref>
+            </p>
+        </example>
+        <postreq>
+            <ul>
+                <li>Watch the ducks again with a camera.</li>
+                <li>Go look for other birds.</li>
+            </ul>
+        </postreq>
     </taskbody>
 </task>
